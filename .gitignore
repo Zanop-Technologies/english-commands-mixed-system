@@ -1,2 +1,11 @@
 # instructions
 git-instructions.sh
+
+# pycache
+__pycache__/
+*.pyc
+
+# ide files
+.vscode/
+.idea
+*.swp
